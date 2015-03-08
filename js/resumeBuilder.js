@@ -14,7 +14,7 @@ var bio = {
         "excel experience",
         "Network background"
     ],
-    "resumePic": "images/charlie.jpg"
+    "resumePic": "images/charlie.JPG"
 };
 
 var education = {
@@ -73,7 +73,7 @@ var projects = {
             "dates" : "Sept 2012",
             "location" : "Wisconsin",
             "description" : "Repaired my parent's roof",
-            "images" : ["images/wisconsin038.jpg","images/wisconsin044.jpg","images/wisconsin059.jpg"]
+            "images" : ["images/wisconsin038.JPG","images/wisconsin044.JPG","images/wisconsin059.JPG"]
         },
         {
             "title" : "nascar",
